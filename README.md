@@ -196,3 +196,5 @@ with contributions from [Matthew Stephens][matthew] and
 [roxygen2]: https://cran.r-project.org/package=roxygen2
 [cran]: https://cran.r-project.org
 [compiling-macos]: https://pcarbo.github.io/pcarbo/r-macos.html
+
+Changes!
